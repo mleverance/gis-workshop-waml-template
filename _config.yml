@@ -58,3 +58,5 @@ footer_content: <a href="https://github.com/mleverance/gis-workshop-waml-templat
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+theme: jekyll-theme-minimal
